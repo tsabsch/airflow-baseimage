@@ -1,0 +1,15 @@
+# < 1.13.x to avoid DeprecationsWarnings
+tensorflow==1.13.2
+tensorflow-serving-api==1.13.0
+keras==2.2.4
+opencv-python==4.1.0.25
+matplotlib==3.1.1
+pandas==0.25.0
+# < 1.17.x to avoid FutureWarnings
+numpy==1.16.4
+lime==0.1.1.36
+grpcio==1.22.0
+anchor_exp==0.0.0.5
+random2==1.0.1
+dvc==0.57.0
+fire==0.2.1
